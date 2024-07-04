@@ -1,0 +1,9 @@
+body{
+    background-color: bisque;
+    border-style: solid ;
+    border-color: burlywood;
+    margin-left: 5px;
+}
+h1{
+    text-transform: uppercase;
+}
